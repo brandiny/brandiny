@@ -1,4 +1,5 @@
-### Hi there 👋
+<h1 align="center">Hi there! 👋</h1>
+<p align="center">I'm Brandon, a software engineering student at VUW. I like making projects that help others or just do cool things!</p>
 
 <!--
 **brandiny/brandiny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
