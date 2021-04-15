@@ -1,9 +1,9 @@
 <h1 align="center">Hello world! 👋</h1>
 <p align="center">I'm Brandon, a software engineering student at VUW. I like making projects that help others or just do cool things!</p>
 <p align="center">
-  <a href="https://isocpp.org"                                    ><img alt="C++"        src="https://img.shields.io/badge/Native-C++-5DB7DE"       /></a>
-  <a href="https://go.java"                                       ><img alt="Java"       src="https://img.shields.io/badge/JVM-Java-#0000c6"         /></a>
-  <a href="https://www.typescriptlang.org"                        ><img alt="JavaScript" src="https://img.shields.io/badge/Web-JavaScript-#0000c6"   /></a>
+  <a href="https://isocpp.org"                                    ><img alt="C++"        src="https://img.shields.io/badge/Native-C++-6300c6"       /></a>
+  <a href="https://go.java"                                       ><img alt="Java"       src="https://img.shields.io/badge/JVM-Java-0063c6"         /></a>
+  <a href="https://www.typescriptlang.org"                        ><img alt="JavaScript" src="https://img.shields.io/badge/Web-JavaScript-0000c6"   /></a>
   <a href="https://www.python.org"                                ><img alt="Python"     src="https://img.shields.io/badge/Script-Python-black"    /></a>
 </p>
 <!--
