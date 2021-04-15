@@ -8,8 +8,8 @@
   <a href="https://www.typescriptlang.org"                        ><img alt="CSS"        src="https://img.shields.io/badge/Web-CSS-orange"          /></a>
   <a href="https://www.php.net"                                   ><img alt="PHP"        src="https://img.shields.io/badge/Web-PHP-red"          /></a>
   <a href="https://www.mysql.com"                                 ><img alt="MySQL"      src="https://img.shields.io/badge/DB-MySQL-blue"         /></a>
-  <a href="https://www.gnu.org/software/bash/"                    ><img alt="Bash"       src="https://img.shields.io/badge/Shell-Bash-lightgrey"       /></a>
-  <a href="https://www.python.org"                                ><img alt="Python"     src="https://img.shields.io/badge/Script-Python-ff69b4"    /></a>
+  <a href="https://www.gnu.org/software/bash/"                    ><img alt="Bash"       src="https://img.shields.io/badge/Shell-Bash-blueviolet"       /></a>
+  <a href="https://www.python.org"                                ><img alt="Python"     src="https://img.shields.io/badge/Script-Python-violet"    /></a>
 </p>
 <!--
 **brandiny/brandiny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
