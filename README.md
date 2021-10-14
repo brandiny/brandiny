@@ -2,8 +2,8 @@
 <p align="left">I'm Brandon, a passionate software engineering student from New Zealand!</p>
 
 - 🔭 I’m currently working on the NZ National Robocup Junior judging interface and Pythfinder, a graph algorithm visualiser.
-- 🌱 I’m currently learning Vue.js, Wordpress, and competitive programming.
-- 👯 I’m looking to collaborate on a n y t h i n g
+- 🌱 I’m currently learning Django3, PostgreSQL, and competitive programming.
+- 👯 I’m looking to collaborate on anything!
 - 📫 How to reach me: brandon.ru1031@gmail.com
 - ⚡ Fun fact: I make hip hop and electronic music, as a software student ... 🤷
 
