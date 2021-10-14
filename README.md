@@ -1,5 +1,5 @@
 <h1 align="left"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello world!</h1>
-<p align="left">I'm Brandon, a passionate software engineering student from New Zealand !</p>
+<p align="left">I'm Brandon, a passionate software engineering student from New Zealand!</p>
 
 - 🔭 I’m currently working on the NZ National Robocup Junior judging interface and Pythfinder, a graph algorithm visualiser.
 - 🌱 I’m currently learning Vue.js, Wordpress, and competitive programming.
