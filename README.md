@@ -1,8 +1,8 @@
 <h1 align="left"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>Hello world!</h1>
 <p align="left">I'm Brandon, a passionate software engineering student from New Zealand!</p>
 
-- 🔭 I’m currently working on the NZ National Robocup Junior judging interface and Pythfinder, a graph algorithm visualiser.
-- 🌱 I’m currently learning C++20, Options Theory, and about Operating Systems.
+- 🔭 I’m currently working on a personal financial statement analyser, and creating a blog with Jekyll!
+- 🌱 I’m currently learning C++20, Options Theory, Operating Systems, and Matplotlib.
 - 👯 I’m looking to collaborate on anything!
 - ⚡ Fun fact: I make hip hop and electronic music, as a software student ... 🤷
 
