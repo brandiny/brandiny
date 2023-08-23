@@ -25,4 +25,4 @@
   <img alt="mySQL" src="https://img.shields.io/badge/-mySQL-6f3574?style=flat-square&logo=mysql&logoColor=white" />
 </p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=brandiny&show_icons=true&count_private=true&theme=radical" alt="brandiny" />
+
